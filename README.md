@@ -7,3 +7,4 @@
 
 [Download](https://github.com/okaki22/CryptoLovec/releases/download/V3.0/Shaitanbot.Launcher.zip)
 
+[Вступить в группу SOFT на PYTHON 2024](https://t.me/python_softs)
